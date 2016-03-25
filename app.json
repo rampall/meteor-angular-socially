@@ -1,7 +1,19 @@
 {
-  "name": "MADDTK",
-  "description": "A barebones Meteor Angular App",
+  "name": "Meteor Angular Base App",
+  "description": "Description for Meteor Angular Base App",
   "repository": "https://github.com/rampall/meteor-angular-socially",
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-  "keywords": ["node", "express", "static"]
+  "logo": "https://raw.githubusercontent.com/wekan/wekan/master/meta/icons/wekan-150.png",
+  "keywords": ["productivity", "tool", "team", "meteor", "angular"],
+  "website": "http://dodotrak.com",
+  "env": {
+    "BUILDPACK_URL": "https://github.com/AdmitHub/meteor-buildpack-horse.git",
+    "ROOT_URL": {
+      "description": "IMPORTANT! Please replace <App Name> with the value provided on the top. This will be the full URL of your Wekan app.",
+      "value": "https://<App Name>.herokuapp.com"
+    }
+  },
+  "addons": [
+    "mongolab",
+    "logentries"
+  ]
 }
