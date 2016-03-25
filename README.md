@@ -57,6 +57,8 @@ Look for issues with a [help wanted label](https://github.com/Urigo/meteor-angul
 Randomly pick submitted Pull Request and review them, offering advice and helping others improve their skills.
 Submit Pull Request or open issues with proposals for [angular-meteor](https://github.com/Urigo/angular-meteor) 
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rampall/meteor-angular-socially)
+
 ### Anything else?
 [Open an issue](https://github.com/Urigo/meteor-angular-socially/issues/new), it's free.
 
