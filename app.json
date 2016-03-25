@@ -1,0 +1,7 @@
+{
+  "name": "MADDTK",
+  "description": "A barebones Meteor Angular App",
+  "repository": "https://github.com/rampall/meteor-angular-socially",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static"]
+}
